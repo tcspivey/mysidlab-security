@@ -1,10 +1,11 @@
 ---
 aws_groups:
-  - fresno
-  - sacramento
-  - losangeles
-  - sanfransisco
-  - indio
-  - palmsprings
-  - sandiego
-  - napa
+  - sanantonio
+  - dallas
+  - houston
+  - amarillo
+  - austin
+  - frisco
+  - waco
+  - killen
+  - blanco
