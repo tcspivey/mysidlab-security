@@ -1,8 +1,8 @@
 ---
 users:
   - name: user1
-    aws_groups: "sacramento, fresno, indio"
+    aws_groups: "sanantonio, dallas, houston"
   - name: user2
-    aws_groups: "losangeles, sanfransisco, napa"
+    aws_groups: "amarillo, austin, frisco"
   - name: user3
-    aws_groups: "palmsprings, indio, sandiego"
+    aws_groups: "waco, killen, blanco"
